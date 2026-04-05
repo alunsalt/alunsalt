@@ -28,8 +28,8 @@
                   _.--'            / ||| \            '--._ 
 
 
- ✦        [G A R D E N E R](https://botany.one)  ·  [T O O L M A K E R](https://alunsalt.github.io/natur-wyllt/)  ·  [C H R O N I C L E R](https://bywyd.mymagic.page)        ✦
-```
+ ✦ [G A R D E N E R](https://botany.one)  ·  [T O O L M A K E R](https://alunsalt.github.io/natur-wyllt/)  ·  [C H R O N I C L E R](https://bywyd.mymagic.page) ✦
+
 
 </div>
 
