@@ -28,8 +28,9 @@
                   _.--'            / ||| \            '--._ 
 
 
- ✦ [G A R D E N E R](https://botany.one)  ·  [T O O L M A K E R](https://alunsalt.github.io/natur-wyllt/)  ·  [C H R O N I C L E R](https://bywyd.mymagic.page) ✦
+```
 
+✦ &nbsp; [G A R D E N E R](https://botany.one) &nbsp;·&nbsp; [T O O L M A K E R](https://alunsalt.github.io/natur-wyllt/) &nbsp;·&nbsp; [C H R O N I C L E R](https://bywyd.mymagic.page) &nbsp; ✦
 
 </div>
 
@@ -53,7 +54,7 @@
 
 **[Y Blog Cymraeg](https://bywyd.mymagic.page)** · *Ysgrifennu yn Gymraeg.* A personal blog in Welsh — written by a learner, for the practice of it, and for the love of the language.
 
-</div>
+&nbsp;
 
 <div align="center">
 
@@ -65,7 +66,7 @@
 
 <div align="center">
 
-[Mastodon (Toot Wales)](https://toot.wales/deck/@alun) &nbsp;·&nbsp; [Bluesky](https://bsky.app/profile/alunsalt.bsky.social) &nbsp;·&nbsp; [LinkedIn](www.linkedin.com/in/alun-salt-6a3653104)
+[Mastodon (Toot Wales)](https://toot.wales/deck/@alun) &nbsp;·&nbsp; [Bluesky](https://bsky.app/profile/alunsalt.bsky.social) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/alun-salt-6a3653104)
 
 </div>
 
