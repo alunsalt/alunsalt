@@ -53,7 +53,7 @@
 
 **[Y Blog Cymraeg](https://bywyd.mymagic.page)** · *Ysgrifennu yn Gymraeg.* A personal blog in Welsh — written by a learner, for the practice of it, and for the love of the language.
 
-&nbsp;
+</div>
 
 <div align="center">
 
