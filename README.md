@@ -17,13 +17,13 @@
                      ' ; : . ; ' . : ; ' ; : . ' ; . : ; '
                         ' ; . : ; '  .:.  ' ; : . ; '
                            ' ; : . : ' : . : ; '
-                              ' ; . ' ; . ; '
+                               ' ; . ' ; . ; '
                                  ' : .|. : '
                                      |||
                                      |||
                                      |||
                                     ,|||.
-                              _.--'  |||  '--._ 
+                              _.--'  |||  '--._
                         _.--'       ,|||.       '--._ 
                   _.--'            / ||| \            '--._ 
 
@@ -76,6 +76,6 @@
 
 ---
 
-<sub>✧ &nbsp; *Every tree has its enemy, few have an advocate.* - Tolkien &nbsp; ✧</sub>
+<sub>✧ &nbsp; *Every tree has its enemy, few have an advocate.* - [Tolkien](https://tolkiengateway.net/wiki/Letter_241) &nbsp; ✧</sub>
 
 </div>
